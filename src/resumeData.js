@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Web Developer and Data Scientist",
     "linkedinId":"https://www.linkedin.com/in/utkarsh-dwivedi-845066153/",
     "skypeid": "Your skypeid",
-    "roleDescription": "Ever since I got introduced to programming, computers and computer technologies have fascinated me. It was almost magic, that I can make something of value by just sitting in front of my computer. It was this fascination that lead to my passion for software development. I am really passionate about software development, data analytics and problem-solving or simply play games in my free time.",
+    "roleDescription": "Ever since I got introduced to programming, computers and computer technologies have fascinated me. It was almost magic, that I can make something of value by just sitting in front of my computer. It was this fascination that lead to my passion for software development. I am really passionate about software development, data analytics and problem-solving.",
     "socialLinks":[
         {
           "name":"linkedin",
