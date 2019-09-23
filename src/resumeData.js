@@ -17,7 +17,7 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at ABV - Indian Institute of Information Technology and Management, Gwalior, and pursuing my B.Tech from here. I am a self taught MERN stack Web Developer, currently exploring Machine Learning. I also love problem-solving and have good Data Structures and Algorithms knowledge. I believe that there is no shortcut to success, one must put all his efforts to achieve a level.",
+    "aboutme":"I am currently a pre-final year student at ABV - Indian Institute of Information Technology and Management, Gwalior, and pursuing my B.Tech from here. I am a self taught MERN stack Web Developer, currently exploring Machine Learning. I also love problem-solving, doing puzzles and have pretty good Data Structures and Algorithms knowledge.",
     "address":"India",
     "website":"https://Cryptedknight.github.io",
     "education":[
