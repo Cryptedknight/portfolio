@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/img-redundant-alt */
 import React, { Component } from 'react';
 export default class Porfolio extends Component {
   render() {
@@ -14,7 +15,7 @@ export default class Porfolio extends Component {
                 <div className="columns portfolio-item">
                   <div className="item-wrap">
                     <a href="#modal-01">
-                      <img src={`${item.imgurl}`} className="item-img"/>
+                      <img src={`${item.imgurl}`} className="item-img" alt ="Some image"/>
                       <div className="overlay">
                         <div className="portfolio-item-meta">
                           <h5>{item.name}</h5>

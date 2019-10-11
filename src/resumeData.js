@@ -75,19 +75,19 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Todo-App",
+        "description":"A todo list app created using Nodejs and Express.",
+        "imgurl":"images/portfolio/origami.jpg"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Tic-Tac-Toe Game",
+        "description":"A 2 player tic-tac-toe game developed using Reactjs.",
+        "imgurl":"images/portfolio/console.jpg"
       },
       {
-        "name":"project3",
+        "name":"Food Ordering System",
         "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "imgurl":"images/portfolio/coffee.jpg"
       },
       {
         "name":"project4",
